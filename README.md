@@ -12,11 +12,11 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 
 | Soru | Video Serisi                | Çalışma Notları                | Durum     
 | :-------- | :------------------------- | :------------------------- | :------- 
-| `01` |  **[Çıktı nedir?](#)** | ***[Var,Let,Const]()*** | `Gelecek Soru` 
-| `02` | **[Çıktı nedir?]()** | ***[setTimeout]()*** | `Gelecek Soru`
-| `03` |  **[Çıktı nedir?]()** | ***[Arrow fonkisyon, this]()*** | `Gelecek Soru`
-| `04` | **[Çıktı nedir?]()** | ***[true, !]()*** | `Gelecek Soru`
-| `05` |  **[Çıktı nedir?]()** | ***[Object key'leri]()*** | `Gelecek Soru`
+| `01` |  **[Çıktı nedir?](#)** | ***[Var,Let,Const](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/01_Cikti_Nedir)*** | `Gelecek Soru` 
+| `02` | **[Çıktı nedir?](#)** | ***[setTimeout](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/02-Cikti_Nedir)*** | `Gelecek Soru`
+| `03` |  **[Çıktı nedir?](#)** | ***[Arrow fonkisyon, this](#)*** | `Gelecek Soru`
+| `04` | **[Çıktı nedir?](#)** | ***[true, !](#)*** | `Gelecek Soru`
+| `05` |  **[Çıktı nedir?](#)** | ***[Object key'leri](#)*** | `Gelecek Soru`
 
 <hr/>
 
