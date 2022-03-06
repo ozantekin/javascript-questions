@@ -12,7 +12,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 
 | Soru | Video Serisi                | Çalışma Notları                | Durum     
 | :-------- | :------------------------- | :------------------------- | :------- 
-| `01` |  **[Çıktı nedir?]()** | ***[Var,Let,Const]()*** | `Gelecek Soru` 
+| `01` |  **[Çıktı nedir?](#)** | ***[Var,Let,Const]()*** | `Gelecek Soru` 
 | `02` | **[Çıktı nedir?]()** | ***[setTimeout]()*** | `Gelecek Soru`
 | `03` |  **[Çıktı nedir?]()** | ***[Arrow fonkisyon, this]()*** | `Gelecek Soru`
 | `04` | **[Çıktı nedir?]()** | ***[true, !]()*** | `Gelecek Soru`
