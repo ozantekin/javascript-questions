@@ -12,7 +12,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 
 | Soru | Video Serisi                | Çalışma Notları                | Durum     
 | :-------- | :------------------------- | :------------------------- | :------- 
-| `01` |  **[Çıktı nedir-1?](https://www.youtube.com/c/OzanTekin)** | ***[Var,Let,Const](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/01_Cikti_Nedir)*** | `Gelecek Soru` 
+| `01` |  **[Çıktı nedir-1?](https://www.youtube.com/c/OzanTekin)** | ***[Hoisting](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/01_Cikti_Nedir)*** | `Gelecek Soru` 
 | `02` | **[Çıktı nedir-2?](https://www.youtube.com/c/OzanTekin)** | ***[setTimeout](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/02-Cikti_Nedir)*** | `Gelecek Soru`
 | `03` |  **[Çıktı nedir-3?](https://www.youtube.com/c/OzanTekin)** | ***[Arrow fonkisyon, this](#)*** | `Gelecek Soru`
 | `04` | **[Çıktı nedi-4?](https://www.youtube.com/c/OzanTekin)** | ***[true, !](#)*** | `Gelecek Soru`
