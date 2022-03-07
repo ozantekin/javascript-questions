@@ -11,9 +11,9 @@ function sayHi() {
 sayHi();
 ```
 
-- A: `Lydia` and `undefined`
-- B: `Lydia` and `ReferenceError`
-- C: `ReferenceError` and `21`
+- A: `Ozan` and `undefined`
+- B: `Ozan` and `ReferenceError`
+- C: `ReferenceError` and `22`
 - D: `undefined` and `ReferenceError`
 
 <details><summary><b>Cevap</b></summary>
