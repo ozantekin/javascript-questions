@@ -13,7 +13,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | Soru | Video Serisi                | Çalışma Notları                | Durum     
 | :-------- | :------------------------- | :------------------------- | :------- 
 | `01` |  **[Çıktı Nedir-1?](https://youtu.be/GSVvqtEa2MY)** | ***[Hoisting Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/01_Cikti_Nedir)*** | `Tamamlandı` 
-| `02` | **[Çıktı Nedir-2?](https://www.youtube.com/c/OzanTekin)** | ***[Var vs Let setTimeout Kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/02-Cikti_Nedir)*** | `Gelecek Soru`
+| `02` | **[Çıktı Nedir-2?](https://youtu.be/tBYI4-t_vcY)** | ***[Var vs Let setTimeout Kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/02-Cikti_Nedir)*** | `Tamamlandı`
 
 <hr/>
 
