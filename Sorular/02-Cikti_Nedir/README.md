@@ -18,7 +18,7 @@ for (let i = 0; i < 3; i++) {
 
 #### Cevap: C
 
-###### <a href="#">Sorunun çözüm videosu için tıkla.</a>
+###### <a href="https://youtu.be/tBYI4-t_vcY">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
