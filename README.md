@@ -14,7 +14,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | :-------- | :------------------------- | :------------------------- | :------- 
 | `01` |  **[Çıktı Nedir-1?](https://youtu.be/GSVvqtEa2MY)** | ***[Hoisting Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/01_Cikti_Nedir)*** | `Tamamlandı` 
 | `02` | **[Çıktı Nedir-2?](https://youtu.be/tBYI4-t_vcY)** | ***[Var vs Let setTimeout Kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/02-Cikti_Nedir)*** | `Tamamlandı`
-| `03` | **[Çıktı Nedir-3?](https://youtu.be/tBYI4-t_vcY)** | ***[true,false ve !](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/03-Cikti_Nedir)*** | `Video Hazrılanıyor`
+| `03` | **[Çıktı Nedir-3?](https://youtu.be/tBYI4-t_vcY)** | ***[true,false ve !](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/03-Cikti_Nedir)*** | `Video Hazırlanıyor`
 
 <hr/>
 
