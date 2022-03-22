@@ -1,4 +1,4 @@
-###### 2. Çıktı Nedir?
+###### 3. Çıktı Nedir?
 
 ```javascript
 const shape = {
