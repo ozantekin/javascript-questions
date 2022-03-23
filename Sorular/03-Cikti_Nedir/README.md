@@ -23,7 +23,7 @@ console.log(shape.perimeter());
 
 #### Cevap: B
 
-###### <a href="#https://youtu.be/x6sLesK6Tvo">Sorunun çözüm videosu için tıkla.</a>
+###### <a href="https://youtu.be/x6sLesK6Tvo">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
