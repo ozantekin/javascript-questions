@@ -17,7 +17,7 @@ console.log(!"Ozan");
 
 #### Cevap: A
 
-###### <a href="#">Sorunun çözüm videosu en yakın zamanda eklenecektir.</a>
+###### <a href="https://www.youtube.com/watch?v=YxUubV1gcvg&ab_channel=OzanTekin">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
