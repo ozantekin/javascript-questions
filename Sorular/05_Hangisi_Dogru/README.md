@@ -19,7 +19,7 @@
 
 - A: `mouse.bird.size` geçerli değil.
 - B: `mouse[bird.size]` geçerli değil.
-- C: `mouse[bird["size"]]` geçerli değil
+- C: `mouse[bird["size"]]` geçerli değil.
 - D: Bütün şıklar geçerli değildir.
 
 <details><summary><b>Cevap</b></summary>
