@@ -1,4 +1,4 @@
-###### 4. Hangisi Doğrudur?
+###### 5. Hangisi Doğrudur?
 
 ```javascript
 
