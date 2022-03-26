@@ -22,7 +22,7 @@ console.log(d.greeting);
 
 #### Cevap: A
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://youtu.be/YF3w553Uo-Q">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
