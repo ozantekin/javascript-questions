@@ -1,9 +1,9 @@
 <h1 align="center">JavaScript Soru Listesi</h1>
 <p>
-Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a target="_blank" href="https://github.com/lydiahallie/javascript-questions">JavaScript Questions</a> repo'sunun Türkçe'leştirilip her sorunun kısa videolu anlatım hallerinin link'lerinin ve çalışma kaynaklarının toplandığı farklı bir versiyonudur.
+Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="https://github.com/lydiahallie/javascript-questions">JavaScript Questions</a> repo'sunun Türkçe'leştirilip her sorunun kısa videolu anlatım hallerinin link'lerinin ve çalışma kaynaklarının toplandığı farklı bir versiyonudur.
 </p>
 
-- :clapper: Her hafta minimum iki sorunun <a target="_blank" href="https://www.youtube.com/c/OzanTekin">videolu</a> anlatım halini yayınlayacağım.
+- :clapper: Her hafta minimum iki sorunun <a href="https://www.youtube.com/c/OzanTekin">videolu</a> anlatım halini yayınlayacağım.
 - :pencil: Soruların video çekimlerine hazırlanırken hazırlık sürecinde yaptığım çalışmaların özetlerini de burada not edeceğim.
 
 <hr/>
@@ -17,7 +17,8 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a target=
 | `03` | **[Çıktı Nedir-3?](https://youtu.be/x6sLesK6Tvo)** | ***[Arrow Function, Scope](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/03-Cikti_Nedir)*** | `Tamamlandı`
 | `04` | **[Çıktı Nedir-4?](https://www.youtube.com/watch?v=YxUubV1gcvg&ab_channel=OzanTekin)** | ***[truthy ve falsy nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/04_Cikti_Nedir)*** | `Tamamlandı`
 | `05` | **[Hangisi doğru?](https://www.youtube.com/watch?v=ZIqVzSf3zY0&ab_channel=OzanTekin)** | ***[Köşeli ayraç kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/05_Hangisi_Dogru)*** | `Tamamlandı`
-| `05` | **[...]()** | ***[...]()*** | `Video Hazırlanıyor`
+| `06` | **[Çıktı Nedir-5?](https://youtu.be/YF3w553Uo-Q)** | ***[Reference ile değişken iletişimi](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/06-Cikti_Nedir)*** | `Tamamlandı`
+| `07` | **[...]()** | ***[...]()*** | `Video Hazırlanıyor`
 <hr/>
 <hr/>
 
