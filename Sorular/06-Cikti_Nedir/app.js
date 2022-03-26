@@ -1,13 +1,6 @@
-const bird = {
-    size: "small"
-};
+let c = {greeting: "Hey!"};
+let d;
 
-const mouse = {
-    name:"Mickey",
-    small: true
-};
-
-console.log(mouse[bird.size]);
-console.log(mouse[bird["size"]]);
-console.log(mouse.bird.size);
-
+d = c; 
+c.greeting = "Hello";
+console.log(d.greeting);
