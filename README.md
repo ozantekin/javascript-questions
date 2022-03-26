@@ -1,9 +1,9 @@
 <h1 align="center">JavaScript Soru Listesi</h1>
 <p>
-Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="https://github.com/lydiahallie/javascript-questions">JavaScript Questions</a> repo'sunun Türkçe'leştirilip her sorunun kısa videolu anlatım hallerinin link'lerinin ve çalışma kaynaklarının toplandığı farklı bir versiyonudur.
+Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a target="_blank" href="https://github.com/lydiahallie/javascript-questions">JavaScript Questions</a> repo'sunun Türkçe'leştirilip her sorunun kısa videolu anlatım hallerinin link'lerinin ve çalışma kaynaklarının toplandığı farklı bir versiyonudur.
 </p>
 
-- :clapper: Her hafta minimum iki sorunun <a href="https://www.youtube.com/c/OzanTekin">videolu</a> anlatım halini yayınlayacağım.
+- :clapper: Her hafta minimum iki sorunun <a target="_blank" href="https://www.youtube.com/c/OzanTekin">videolu</a> anlatım halini yayınlayacağım.
 - :pencil: Soruların video çekimlerine hazırlanırken hazırlık sürecinde yaptığım çalışmaların özetlerini de burada not edeceğim.
 
 <hr/>
