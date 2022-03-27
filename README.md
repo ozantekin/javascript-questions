@@ -18,7 +18,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | `04` | **[Çıktı Nedir-4?](https://www.youtube.com/watch?v=YxUubV1gcvg&ab_channel=OzanTekin)** | ***[truthy ve falsy nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/04_Cikti_Nedir)*** | `Tamamlandı`
 | `05` | **[Hangisi doğru?](https://www.youtube.com/watch?v=ZIqVzSf3zY0&ab_channel=OzanTekin)** | ***[Köşeli ayraç kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/05_Hangisi_Dogru)*** | `Tamamlandı`
 | `06` | **[Çıktı Nedir-5?](https://youtu.be/YF3w553Uo-Q)** | ***[Reference ile değişken iletişimi](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/06-Cikti_Nedir)*** | `Tamamlandı`
-| `07` | **[...]()** | ***[...]()*** | `Video Hazırlanıyor`
+| `07` | **[Çıktı Nedir-6?]()** | ***[new Number, double equals ve triple equals nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/07_Cikti_Nedir)*** | `Video Hazırlanıyor`
 <hr/>
 <hr/>
 
