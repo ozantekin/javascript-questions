@@ -22,7 +22,7 @@
 
 #### Cevap: C
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://www.youtube.com/watch?v=uZ8X7U_BLl4&ab_channel=OzanTekin">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
