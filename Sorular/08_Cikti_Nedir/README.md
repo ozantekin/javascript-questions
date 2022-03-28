@@ -38,7 +38,7 @@
 
 - `colorChange` fonksiyonu statiktir. 
 - Statik yöntemler yalnızca oluşturuldukları constructor içinde kullanılabilirler ve herhangi bir alt öğeye aktarılmazlar veya clsss örneklerine çağrılmazlar.
-- `osman`, 'Chamelon' class'ının bir örneği olduğundan fonksiyon buna çağrılamaz. Bu yüzden `TypeError` alırız.
+- `osman`, 'Chameleon' class'ının bir örneği olduğundan fonksiyon buna çağrılamaz. Bu yüzden `TypeError` alırız.
 - <b> Hatırlatma: </b>
   - Static metotlar ES6 ile gelen özelliklerden biridir.
   -  ES5 ile bir class içindeki metot ya da özelliklere ulaşmak istiyorsak new classAdı() şeklinde yeni bir sınıf örneği oluşturup bu sınıf örneği üzerinden istediğimiz özelliklere ulaşabiliyorduk.
