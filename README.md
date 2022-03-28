@@ -19,7 +19,8 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | `05` | **[Hangisi doğru?](https://www.youtube.com/watch?v=ZIqVzSf3zY0&ab_channel=OzanTekin)** | ***[Köşeli ayraç kullanımı](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/05_Hangisi_Dogru)*** | `Tamamlandı`
 | `06` | **[Çıktı Nedir-5?](https://youtu.be/YF3w553Uo-Q)** | ***[Reference ile değişken iletişimi](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/06-Cikti_Nedir)*** | `Tamamlandı`
 | `07` | **[Çıktı Nedir-6?](https://www.youtube.com/watch?v=uZ8X7U_BLl4&ab_channel=OzanTekin)** | ***[new Number, double equals ve triple equals nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/07_Cikti_Nedir)*** | `Tamamlandı`
-| `08` | **[Çıktı Nedi-7?]()** | ***[Static Method Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/08_Cikti_Nedir)*** | `Video Hazırlanıyor`
+| `08` | **[Çıktı Nedi-7?](https://youtu.be/_MNmSIG7JA0)** | ***[Class static Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/08_Cikti_Nedir)*** | `Tamamlandı`
+| `09` | **[...]()** | ***[.]()*** | `Video Hazrılanıyor`
 
 <hr/>
 <hr/>
