@@ -28,7 +28,7 @@
 
 #### Cevap: D
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://youtu.be/_MNmSIG7JA0">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
@@ -37,7 +37,7 @@
 
 
 - `colorChange` fonksiyonu statiktir. 
-- Statik yöntemler yalnızca oluşturuldukları constructor içinde kullanılabilirler ve herhangi bir alt öğeye aktarılmazlar veya clsss örneklerine çağrılmazlar.
+- Statik yöntemler yalnızca oluşturuldukları constructor içinde kullanılabilirler ve herhangi bir alt öğeye aktarılmazlar veya class örneklerine çağrılmazlar.
 - `osman`, 'Chameleon' class'ının bir örneği olduğundan fonksiyon buna çağrılamaz. Bu yüzden `TypeError` alırız.
 - <b> Hatırlatma: </b>
   - Static metotlar ES6 ile gelen özelliklerden biridir.
