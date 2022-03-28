@@ -13,7 +13,7 @@
       }
     }
 
-    const osman = new Chamelon({ newColor: 'purple' });
+    const osman = new Chameleon({ newColor: 'purple' });
     console.log(osman.colorChange('orange'));
 
 ```
