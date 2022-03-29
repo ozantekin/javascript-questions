@@ -20,9 +20,9 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | `06` | **[Çıktı Nedir-5?](https://youtu.be/YF3w553Uo-Q)** | ***[Reference ile değişken iletişimi](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/06-Cikti_Nedir)*** | `Tamamlandı`
 | `07` | **[Çıktı Nedir-6?](https://www.youtube.com/watch?v=uZ8X7U_BLl4&ab_channel=OzanTekin)** | ***[new Number, double equals ve triple equals nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/07_Cikti_Nedir)*** | `Tamamlandı`
 | `08` | **[Çıktı Nedi-7?](https://youtu.be/_MNmSIG7JA0)** | ***[Class static Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/08_Cikti_Nedir)*** | `Tamamlandı`
-| `09` | **[...]()** | ***[.]()*** | `Video Hazrılanıyor`
+| `09` | **[Çıktı Nedir-8?]()** | ***[Use Strict Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/09_Cikti_Nedir)*** | `Video Hazrılanıyor`
 
-<hr/>
+
 <hr/>
 
 ###### :one::five::five: sorunun anlatım videosunun link'leri ve hazırlık çalışma serisi olacaktır.  
