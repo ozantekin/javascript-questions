@@ -17,7 +17,7 @@
 
 #### Cevap: A
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://youtu.be/igInuHXJruE">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
