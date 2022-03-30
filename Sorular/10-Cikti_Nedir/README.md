@@ -34,7 +34,7 @@ console.log(member.getFullName());
 <h1 align="center">Notlarım</h1>
 
 
-- Sıradan function'lara constructor yani bir yapıcı özellik ekleyemeyiz.
+- Sıradan function'larla yaptığımız gibi bir yapıcıya yani `consturctor `'a özellik ekleyemeyiz.
 -  Eğer tek seferde tüm nesnelere özellik eklemek istersek `prototype` kullanmamız gerekir.
 
 ```javascript
