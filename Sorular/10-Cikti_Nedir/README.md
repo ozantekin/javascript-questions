@@ -26,7 +26,7 @@ console.log(member.getFullName());
 
 #### Cevap: A
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://youtu.be/J8zGz77l4NE">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
@@ -34,7 +34,7 @@ console.log(member.getFullName());
 <h1 align="center">Notlarım</h1>
 
 
-- Sıradan function'larla yaptığımız gibi bir yapıcıya yani `consturctor `'a özellik ekleyemeyiz.
+- Sıradan function'larla yaptığımız gibi bir yapıcıya yani `constructor `'a özellik ekleyemeyiz.
 -  Eğer tek seferde tüm nesnelere özellik eklemek istersek `prototype` kullanmamız gerekir.
 
 ```javascript
