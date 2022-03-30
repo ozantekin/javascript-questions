@@ -21,7 +21,7 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | `07` | **[Çıktı Nedir-6?](https://www.youtube.com/watch?v=uZ8X7U_BLl4&ab_channel=OzanTekin)** | ***[new Number, double equals ve triple equals nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/07_Cikti_Nedir)*** | `Tamamlandı`
 | `08` | **[Çıktı Nedi-7?](https://youtu.be/_MNmSIG7JA0)** | ***[Class static Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/08_Cikti_Nedir)*** | `Tamamlandı`
 | `09` | **[Çıktı Nedir-8?](https://youtu.be/igInuHXJruE)** | ***[Use Strict Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/09_Cikti_Nedir)*** | `Tamamlandı`
-| `10` | **[Çıktı Nedir-9?](https://youtu.be/J8zGz77l4NE)** | ***[Protorype ve Constructor Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/10-Ne_Olur)*** | `Tamamlandı`
+| `10` | **[Çıktı Nedir-9?](https://youtu.be/J8zGz77l4NE)** | ***[Protorype ve Constructor Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/10-Cikti_Nedir)*** | `Tamamlandı`
 | `11` | **[...]()** | ***[...]()*** | `Video Hazrılanıyor`
 
 <hr/>
