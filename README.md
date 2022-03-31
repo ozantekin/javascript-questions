@@ -22,7 +22,8 @@ Lydia Hallie adında bir yazılım mühendisinin oluşturmuş olduğu <a href="h
 | `08` | **[Çıktı Nedi-7?](https://youtu.be/_MNmSIG7JA0)** | ***[Class static Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/08_Cikti_Nedir)*** | `Tamamlandı`
 | `09` | **[Çıktı Nedir-8?](https://youtu.be/igInuHXJruE)** | ***[Use Strict Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/09_Cikti_Nedir)*** | `Tamamlandı`
 | `10` | **[Çıktı Nedir-9?](https://youtu.be/J8zGz77l4NE)** | ***[Protorype ve Constructor Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/10-Cikti_Nedir)*** | `Tamamlandı`
-| `11` | **[...]()** | ***[...]()*** | `Video Hazrılanıyor`
+| `11` | **[Çıktı Nedir-10?](https://youtu.be/xncnU3sKiN4)** | ***[new Anahtar Kelimesi Nedir?](https://github.com/ozantekin/javascript-sorular/tree/main/Sorular/11_Cikti_Nedir)*** | `Video Hazrılanıyor`
+| `12` | **[...]()** | ***[...]()*** | `Video Hazrılanıyor`
 
 <hr/>
 
