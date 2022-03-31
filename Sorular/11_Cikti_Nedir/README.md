@@ -25,7 +25,7 @@ console.log(nida);
 
 #### Cevap: A
 
-###### <a href="#">Sorunun çözüm videosu hazırlanıyor.</a>
+###### <a href="https://youtu.be/xncnU3sKiN4">Sorunun çözüm videosu için tıkla.</a>
 
 </p>
 </details>
